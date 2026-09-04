@@ -11,3 +11,6 @@ Push is when we want to share this version on the cloud so everyone can work wit
 
 <img width="970" height="579" alt="image" src="https://github.com/user-attachments/assets/62b3252c-2e3a-4fab-b343-b18128185a44" />
 <img width="768" height="513" alt="image" src="https://github.com/user-attachments/assets/d21c1ed5-b752-4b34-8849-20ebf9d7f99b" />
+
+to get all Maven dependencies:
+https://mvnrepository.com/ 
